@@ -7,7 +7,7 @@ I built a command line app that functions similar to an online store. I used Nod
 DEMO
 To see a demo of this CLI node app in action check out the video:
 
-
+https://drive.google.com/file/d/1ClPpPB6-VCKtSDgLT43rrBKQ1anUENVX/view
 
 OVERVIEW
 
